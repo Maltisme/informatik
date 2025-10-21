@@ -1,0 +1,29 @@
+#content{
+margin-left:40px;
+border-left: 1px solid gold;
+padding-left: 5px;
+}
+ 
+#nav{
+position:fixed;
+left:0;
+top:0;
+background:yellow;
+padding:5px;
+}
+ 
+div.header{
+background-color:#ccc;
+padding: 5px;
+width: 400px;
+margin-left: 240px;
+}
+ 
+ 
+#chris{
+  display: none;
+}
+ 
+#chrissy{
+  display: none;
+}
